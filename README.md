@@ -19,19 +19,6 @@
 <h2 align="center">📊 GitVerse Stats & Activity 📊</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rawneko&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=3B82F6&title_color=3B82F6&text_color=FFFFFF" alt="GitVerse Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawneko&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawneko&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
@@ -40,7 +27,7 @@
 <h2 align="center">🛠️ My Tech Toolbox 🛠️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,spring,go,rust,docker,kubernetes,aws,gcp,firebase,mongodb,postgres,redis,graphql,apollo,git,gitverse,linux,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,spring,go,rust,docker,kubernetes,aws,gcp,firebase,mongodb,postgres,redis,graphql,apollo,git,linux,vscode,figma&perline=10" />
 </p>
 
 ---
