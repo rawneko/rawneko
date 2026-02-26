@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Developer from Russia | Code & Create 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/rawnekoo">
+  <a href="https://github.com/rawneko">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Code+%3C%2F%3E+Create" alt="Typing SVG" />
   </a>
 </p>
