@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">📊 GitVerse Stats & Activity 📊</h2>
+<h2 align="center">📊 GitHub Stats & Activity 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawneko&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
