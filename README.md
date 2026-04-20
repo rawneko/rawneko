@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rawnekoo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://t.me/QLogovo">
+  <img src="https://komarev.com/ghpvc/?username=moyunni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://t.me/moyunni_room">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
